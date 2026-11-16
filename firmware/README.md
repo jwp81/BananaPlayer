@@ -1,6 +1,3 @@
----
-lastSync: Sun Nov 15 2026 17:12:39 GMT-0500 (Eastern Standard Time)
----
 # BananaPlayer Firmware
 
 ## File Structure
