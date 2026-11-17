@@ -5,7 +5,7 @@ On the inside, the heart of the player is an ESP32-S3, which controls the Displa
 
 Repairability has always been an important part of the designing process. So make repair simple, only 4 screws are needed to hold the entire player together while keeping it sturdy. This makes it possible to replace or add a part in under 2 minutes :)
 
-Freedom in your music, designed with pride.
+Hardware docs for more
 
 # **Getting Started**
 ## **UI navigation**
@@ -18,3 +18,5 @@ To open the control center, firmly press down on the knob until you feel a secon
 In the Now Playing screen, use the knob to adjust volume and the bottom buttons to pause, play, forward track, and backward track. To scrub through music, push on push on the knob and rotate the scrub though. Press the knob again to select. To exit Now Playing, hold down on the knob. 
 
 ***Note: Adjusting volume with knob can only be done in Now Playing. To adjust volume in any other menus, navigate to the control center.***
+
+[Firmware docs](https://github.com/jwp81/BananaPlayer/tree/main/firmware)
